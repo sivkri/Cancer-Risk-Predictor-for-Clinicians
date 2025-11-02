@@ -33,7 +33,7 @@ An interactive web application for breast cancer risk prediction using Machine L
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sivkri/interactive-cancer-risk-predictor-ml-dl.git
+   git clone https://github.com/sivkri/Cancer-Risk-Predictor-for-Clinicians.git
    cd interactive-cancer-risk-predictor-ml-dl
    ```
 2. Install dependencies:
@@ -114,3 +114,4 @@ To log to this experiment:
 
 ### MLflow Files
    Experiment logs are stored under the `mlruns/` directory - Each run contains logged metrics, parameters, models, and artifacts
+
